@@ -65,7 +65,7 @@ FIGURA 6: O sistema reabre o registro criado para checar se as UI Policies e reg
  
 FIGURA 7: O teste passa com 100% de sucesso e o Rollback entra em ação, apagando os dados de teste.
 
-6. Relatório Detalhado (Tela 12) O resultado entrega uma tabela detalhada com o tempo de execução de cada passo. Transparência total para auditoria.
+6. Relatório Detalhado FIGURA 8 O resultado entrega uma tabela detalhada com o tempo de execução de cada passo. Transparência total para auditoria.
 
 <img width="884" height="334" alt="image" src="https://github.com/user-attachments/assets/c4d9108a-9fd2-457f-a43b-bd22de37ca3a" />
  
